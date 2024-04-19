@@ -1,1 +1,4 @@
 este es un cambio en la rama "rama1"
+nuevo cambio
+adios
+segundo cambio en el archivo
